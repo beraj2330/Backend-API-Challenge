@@ -1,0 +1,26 @@
+{
+  "name": "hachway-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "directories": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "apicache": "^1.6.2",
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "package.json": "^2.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "nodemon server/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
