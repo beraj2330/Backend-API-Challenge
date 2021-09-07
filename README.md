@@ -11,6 +11,7 @@ Unit testing can be found in test/test.js
 
 
 How to run:
+
 1. In the terminal within the project directory run 'npm install' and 'npm install package.json'.
 2. After installing run 'npm start' which will start the server at localhost:3000
 3. I have used postman to verify all of my solutions and checked the response time in the console to ensure the cache was functioning properly.
