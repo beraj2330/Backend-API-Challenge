@@ -2,6 +2,7 @@
 Hatchway Challenge
 
 Summary
+
 This application contains the results of a challenge for a position of Software Developer role at Repustate.
 It is completely attentive on the backend and uses an external API and I have not used my own database.
 zip folder contains 4 files index.js, control.js, test.js, package.json
